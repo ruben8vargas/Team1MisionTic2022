@@ -15,5 +15,9 @@ Rubén Darío Vargas Jiménez
 Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
 
 # Rubén Darío Vargas Jiménez 
-Soy ingeniero en Electrónica y Telecomunicaciones de la universidad del Cauca, Estoy fortaleciendo mis habilidades en programación e inglés. Me gusta trotar y jugar ajedrez. En este primer sprint voy a desempeñar el rol de Scrum Master y desarrollador. 
+Soy ingeniero en Electrónica y Telecomunicaciones de la universidad del Cauca, Estoy fortaleciendo mis habilidades en programación e inglés. Me gusta trotar y jugar ajedrez. En este primer sprint voy a desempeñar el rol de Scrum Master y desarrollador.
+
+# Carlos Andres Soriano Gonzalez
+
+Programador en formacion, apasionado por la lectura y el desarrollo personal, me gusta trabajar, hacer ejercicio y divertirme de vez en cuando.
 
