@@ -1,2 +1,2 @@
-# Alejandro Granada Ospina
-Soy tecnologo en mantenimiento y reparacion de equipos de computo certificado en windows server, redes y seguridad informatica apasionado por el munco de la tecnologia y muy interesado en aprender programacion, ya que la mayor parte del tiempo hago uso de los videojuegos y me gustaria estar mas empado del tema y adentrarme en este mundo.
+#Alejandro Granada Ospina
+Soy tecnólogo en mantenimiento y reparación de equipos de cómputo certificado en Windows server, redes y seguridad informática apasionado por el mundo de la tecnología y muy interesado en aprender programación, ya que la mayor parte del tiempo hago uso de los videojuegos y me gustaría estar más involucrado con el tema y adentrarme en este mundo.
