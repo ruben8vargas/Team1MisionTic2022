@@ -27,5 +27,5 @@ Soy tecnólogo en mantenimiento y reparación de equipos de cómputo certificado
 Mi nombre es Dario Alejandro, en esta oportunidad me desempeñare como analista y programador, me gusta el inglés y la tecnología. 
 
 # Carlos Andres Soriano Gonzalez                               
-Programador en formación, apasionado por la lectura y el desarrollo personal, me gusta trabajar, hacer ejercicio y divertirme de vez en cuando.
+Programador en formación, apasionado por la lectura y el desarrollo personal, me gusta trabajar, hacer ejercicio y divertirme de vez en cuando. Mi funcion sera Desarrollador y Administrador de base de datos
 
